@@ -1,0 +1,48 @@
+Creative Commons Attribution 4.0 International Public License
+
+By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution 4.0 International Public License ("Public License").
+
+1. Licensed Rights
+
+This dataset, *ChemRxivQuest*, is licensed to You under the Creative Commons Attribution 4.0 International License (CC BY 4.0). Under this license, You are free to:
+
+- **Share** — copy and redistribute the material in any medium or format  
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially  
+
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+This licence also covers any **sui-generis database rights** (under Directive 96/9/EC and §§ 87a ff. UrhG) in the dataset. These rights are licensed under the same CC BY 4.0 terms.
+
+2. Attribution Requirements
+
+You must:
+
+- **Give appropriate credit** to the creators of this dataset:
+  > *ChemRxivQuest: A Curated Chemistry QA Dataset* by Mahmoud Amiri and Thomas Bocklitz  
+  > Source: https://arxiv.org/abs/2505.05232  
+  > License: CC BY 4.0
+
+- **Cite the original ChemRxiv preprints** included in the dataset. A full list of sources (title, DOI, authors, year, and licence) is provided in `sources.tsv`. You must retain this citation list and ensure that credit is preserved when redistributing or modifying the dataset.
+
+- **Provide a link to the license**: https://creativecommons.org/licenses/by/4.0/
+
+- **Indicate if changes were made**. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+3. No Additional Restrictions
+
+You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+4. Disclaimer and Limitation of Liability
+
+This dataset includes content extracted and derived from ChemRxiv preprints, which are not peer-reviewed and may contain errors or unverified claims. Use of this dataset is at your own risk.
+
+The dataset is provided “AS IS”, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. To the extent permitted by law (§§ 521-524 BGB), the Licensor shall not be liable for any claim, damages, or other liability arising from its use.
+
+5. Personal Data
+
+To the best of our knowledge, this dataset contains no personal data within the meaning of Article 4(1) of the General Data Protection Regulation (GDPR). Users remain responsible for any processing of personal data that may nonetheless occur.
+
+---
+
+For the full legal text of CC BY 4.0, see: https://creativecommons.org/licenses/by/4.0/legalcode  
+SPDX-License-Identifier: CC-BY-4.0

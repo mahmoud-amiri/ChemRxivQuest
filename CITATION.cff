@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the metadata below."
+title: "ChemRxivQuest: A Curated Chemistry Question-Answer Database Extracted from ChemRxiv Preprints"
+authors:
+  - family-names: Amiri
+    given-names: Mahmoud
+    affiliation: Friedrich Schiller University Jena
+    orcid: https://orcid.org/0009-0001-3826-1789  # Replace with your actual ORCID
+  - family-names: Bocklitz
+    given-names: Thomas
+    affiliation: Friedrich Schiller University Jena, Friedrich Schiller Universität Jena Chemisch Geowissenschaftliche Fakultät, Friedrich Schiller Universität Jena Physikalisch-Astronomische Fakultät, Friedrich-Schiller-Universität Jena, Leibniz Institute of Photonic Technology, Leibniz-Institut für Photonische Technologien eV, Universität Bayreuth Fakultät für Mathematik Physik und Informatik
+    orcid: https://orcid.org/0000-0003-2778-6624  # Replace with co-author's ORCID
+version: "1.0.0"
+doi: 10.48550/arXiv.2505.05232
+date-released: 2025-05-08
+url: https://arxiv.org/abs/2505.05232
+repository-code: https://github.com/mahmoud-amiri/ChemRxivQuest#  # Replace with real URL
+license: CC-BY-4.0
+keywords:
+  - chemistry
+  - question answering
+  - QA dataset
+  - ChemRxiv
+  - natural language processing
+type: dataset
